@@ -105,5 +105,3 @@ Para dudas o colaboración, abre un issue en el repositorio o contacta al manten
 
 ---
 
-_README actualizado automáticamente para ser más claro y útil. Si quieres, puedo añadir ejemplos de uso concretos (capturas, flujos de usuario) o generar un script de build._
-
